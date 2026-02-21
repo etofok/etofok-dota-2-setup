@@ -1,9 +1,6 @@
-/web/assets/images/unused
 /web/node_modules
+/web/src/
+/web/gulpfile.js
 /web/package.json
 /web/package-lock.json
-/web/gulpfile.js
-/web/index-dev.html
-/web/css/
-/web/js/
 
